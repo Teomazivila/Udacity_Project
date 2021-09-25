@@ -1,3 +1,5 @@
+This is my proof of successful deployment of the static website provided by the School
+
 Deploy Static Website on AWS
 
 In this project, you will deploy a static website to AWS using S3, CloudFront, and IAM.
